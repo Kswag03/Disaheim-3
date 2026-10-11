@@ -1,4 +1,7 @@
 <Solution>
+  <Project Path="ControllerTest/ControllerTest.csproj" Id="e961d689-ff96-45bc-ac1c-c1f826847fd8" />
   <Project Path="Disaheim1/Disaheim1.csproj" />
   <Project Path="DisaheimTest/DisaheimTest.csproj" Id="7f3d4260-f4fc-4a83-9dba-8de2b96d11cf" />
+  <Project Path="UtilityLib/UtilityLib.csproj" Id="ff9586b0-557e-468a-853c-42fc81d310a7" />
+  <Project Path="UtilityTest/UtilityTest.csproj" Id="177c019e-a5f0-4df6-a7f8-446d5d6f1281" />
 </Solution>
