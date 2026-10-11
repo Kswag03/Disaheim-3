@@ -1084,6 +1084,19 @@
         "runtime": {
           "bin/placeholder/Disaheim1.dll": {}
         }
+      },
+      "UtilityLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Disaheim1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UtilityLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UtilityLib.dll": {}
+        }
       }
     }
   },
@@ -2282,12 +2295,18 @@
       "type": "project",
       "path": "../Disaheim1/Disaheim1.csproj",
       "msbuildProject": "../Disaheim1/Disaheim1.csproj"
+    },
+    "UtilityLib/1.0.0": {
+      "type": "project",
+      "path": "../UtilityLib/UtilityLib.csproj",
+      "msbuildProject": "../UtilityLib/UtilityLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "Disaheim1 >= 1.0.0",
-      "MSTest >= 4.0.2"
+      "MSTest >= 4.0.2",
+      "UtilityLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2325,6 +2344,9 @@
           "projectReferences": {
             "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\Disaheim1\\Disaheim1.csproj": {
               "projectPath": "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\Disaheim1\\Disaheim1.csproj"
+            },
+            "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\UtilityLib\\UtilityLib.csproj": {
+              "projectPath": "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\UtilityLib\\UtilityLib.csproj"
             }
           }
         }

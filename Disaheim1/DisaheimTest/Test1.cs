@@ -1,8 +1,8 @@
-﻿using Disaheim1;
+﻿
 using System.Globalization;
-using static Disaheim1.Amulet;
-using static Microsoft.TestPlatform.AdapterUtilities.HierarchyConstants;
 
+using static Microsoft.TestPlatform.AdapterUtilities.HierarchyConstants;
+using Disaheim1;
 namespace DisaheimTest
 {
     [TestClass]
@@ -10,6 +10,7 @@ namespace DisaheimTest
     {
         Book b1, b2, b3;
         Amulet a1, a2, a3;
+        Course c1, c2, c3;
 
         [TestInitialize]
         public void Init()
@@ -24,6 +25,10 @@ namespace DisaheimTest
             a1 = new Amulet("11");
             a2 = new Amulet("12", Level.High);
             a3 = new Amulet("13", Level.Low, "Capricorn");
+
+            c1 = new Course("Spådomskunst for nybegyndere");
+            c2 = new Course("Magi – når videnskaben stopper", 157);
+            c3 = new Course("Et indblik i Helleristning", 180);
         }
 
         [TestMethod]
@@ -57,6 +62,27 @@ namespace DisaheimTest
         {
             Assert.AreEqual("ItemId: 13, Quality: Low, Design: Capricorn", a3.ToString());
         }
+
+        [TestMethod]
+        public void MerchandiseConstructorWorkProperly()
+        {
+            // Arrange
+            //Merchandise m = new Merchandise("100");
+
+            //// Assert
+            //Assert.AreEqual("ItemId: 100", m.ToString());
+        }
+        [TestMethod]
+        public void CourseSetPropertiesWorks()
+        {
+            // Act
+            c2.Name = "How to Ying-Yang";
+            c2.DurationInMinutes = 413;
+
+            // Assert
+            Assert.AreEqual("Name: How to Ying-Yang, Duration in Minutes: 413", c2.ToString());
+        }
+
     }
 
 
