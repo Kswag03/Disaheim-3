@@ -1,0 +1,16 @@
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\bin\Debug\net10.0\Disaheim1.exe
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\bin\Debug\net10.0\Disaheim1.deps.json
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\bin\Debug\net10.0\Disaheim1.runtimeconfig.json
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\bin\Debug\net10.0\Disaheim1.dll
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\bin\Debug\net10.0\Disaheim1.pdb
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.AssemblyInfoInputs.cache
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.AssemblyInfo.cs
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.csproj.CoreCompileInputs.cache
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.sourcelink.json
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.dll
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\refint\Disaheim1.dll
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.pdb
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.genruntimeconfig.cache
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\ref\Disaheim1.dll
+C:\Users\Kswag\Documents\GitHub\Team-B3\Disaheim1\Disaheim1\obj\Debug\net10.0\Disaheim1.csproj.Up2Date
