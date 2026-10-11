@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|c:\\users\\kswag\\documents\\github\\team-b3\\disaheim1\\disaheim1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|solutionrelative:disaheim1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|c:\\users\\kswag\\documents\\github\\team-b3\\disaheim1\\disaheim1\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|solutionrelative:disaheim1\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|c:\\users\\kswag\\documents\\github\\team-b3\\disaheim1\\disaheim1\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|solutionrelative:disaheim1\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|c:\\users\\kswag\\documents\\github\\team-b3\\disaheim1\\disaheim1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|solutionrelative:disaheim1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F3D4260-F4FC-4A83-9DBA-8DE2B96D11CF}|DisaheimTest\\DisaheimTest.csproj|c:\\users\\kswag\\documents\\github\\team-b3\\disaheim1\\disaheimtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|c:\\users\\kswag\\documents\\github\\team-b3\\disaheim1\\disaheim1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|solutionrelative:disaheim1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|c:\\users\\kswag\\documents\\github\\team-b3\\disaheim1\\disaheim1\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FC9F547-0EF8-62E7-E0DF-5651717E068D}|Disaheim1\\Disaheim1.csproj|solutionrelative:disaheim1\\amulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Utility.cs",
+              "RelativeDocumentMoniker": "Disaheim1\\Utility.cs",
+              "ToolTip": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Utility.cs",
+              "RelativeToolTip": "Disaheim1\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T08:05:45.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,34 +57,36 @@
               "RelativeDocumentMoniker": "DisaheimTest\\Test1.cs",
               "ToolTip": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\DisaheimTest\\Test1.cs",
               "RelativeToolTip": "DisaheimTest\\Test1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA4wCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T10:05:28.338Z"
+              "WhenOpened": "2026-10-09T10:05:28.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Book.cs",
               "RelativeDocumentMoniker": "Disaheim1\\Book.cs",
               "ToolTip": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Book.cs",
               "RelativeToolTip": "Disaheim1\\Book.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-09T09:45:39.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Amulet.cs",
               "DocumentMoniker": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Amulet.cs",
               "RelativeDocumentMoniker": "Disaheim1\\Amulet.cs",
               "ToolTip": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Amulet.cs",
               "RelativeToolTip": "Disaheim1\\Amulet.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wCcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wCcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T07:14:59.155Z"
+              "WhenOpened": "2026-10-09T07:14:59.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,7 +98,8 @@
               "RelativeToolTip": "Disaheim1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T07:15:02.855Z"
+              "WhenOpened": "2026-10-09T07:15:02.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

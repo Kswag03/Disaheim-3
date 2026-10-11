@@ -2297,11 +2297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\DisaheimTest\\DisaheimTest.csproj",
+      "projectUniqueName": "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\DisaheimTest\\DisaheimTest.csproj",
       "projectName": "DisaheimTest",
-      "projectPath": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\DisaheimTest\\DisaheimTest.csproj",
+      "projectPath": "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\DisaheimTest\\DisaheimTest.csproj",
       "packagesPath": "C:\\Users\\Kswag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\DisaheimTest\\obj\\",
+      "outputPath": "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\DisaheimTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2323,8 +2323,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Disaheim1.csproj": {
-              "projectPath": "C:\\Users\\Kswag\\Documents\\GitHub\\Team-B3\\Disaheim1\\Disaheim1\\Disaheim1.csproj"
+            "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\Disaheim1\\Disaheim1.csproj": {
+              "projectPath": "C:\\Users\\Kswag\\Desktop\\Disaheim\\Disaheim1\\Disaheim1\\Disaheim1.csproj"
             }
           }
         }
